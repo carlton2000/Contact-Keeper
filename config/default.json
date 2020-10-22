@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Carlton:chelseaInna2910@contact-app.ezvyv.mongodb.net/contact-db?retryWrites=true&w=majority",
+    "jwtSecret":"secret"
+}
